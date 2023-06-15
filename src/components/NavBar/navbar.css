@@ -1,0 +1,27 @@
+.navbar__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.navbar__container p{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.navbar__container-btn{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    width: 130px;
+    height: 40px;
+    font-size:16px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;     
+    background: linear-gradient(90deg, #03a9f4, #03a9f4);
+}
